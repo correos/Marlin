@@ -15,7 +15,7 @@ Configurado para drivers tmc2130 controlados por SPI
 
 4.   Calibramos el z-offset
 
-Ajustamos offset: M851 Zxx.xx
+    Ajustamos offset: M851 Zxx.xx
 
 5.  M503 (get current settings)
 
