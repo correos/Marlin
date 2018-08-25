@@ -1,7 +1,9 @@
-# Marlin 3D Printer Firmware
+# Marlin 1.1.9
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
-# Marlin 1.1.9 para Anycubic Kossel Plus - TMC2130 SPI
+# Anycubic Kossel Plus - TMC2130 SPI
+
+Configurado para drivers tmc2130 controlados por SPI
 
 ## Marlin 1.1
 
