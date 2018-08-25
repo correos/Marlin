@@ -13,14 +13,12 @@ Configurado para drivers tmc2130 controlados por SPI
 
 3.  M500 (store settings)
 
-4.  M503 (get current settings)
-
-5.  G33 (auto calibration)
-
-6.   Calibramos el z-offset
+4.   Calibramos el z-offset
 
 Ajustamos offset: M851 Zxx.xx
 
-Ajustamos nueva altura: M665 Hxxx.xx ( (H_anterior) - Z-offset)
+5.  M503 (get current settings)
+
+6.  G33 (auto calibration)
 
 7.  M500 (store settings)
